@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VibeTube</string>
+
+    <!-- Tabs -->
+    <string name="tab_home">Início</string>
+    <string name="tab_explore">Explorar</string>
+    <string name="tab_publish">Publicar</string>
+    <string name="tab_activity">Atividade</string>
+    <string name="tab_profile">Perfil</string>
+
+    <!-- Estados -->
+    <string name="state_loading">Carregando…</string>
+    <string name="state_empty_videos">Nenhum vídeo disponível.</string>
+    <string name="state_error_generic">Não foi possível carregar agora.</string>
+    <string name="state_error_retry">Tentar novamente</string>
+    <string name="state_offline_cached">Você está offline. Mostrando conteúdo salvo.</string>
+
+    <!-- Comentários -->
+    <string name="comments_title">Comentários</string>
+    <string name="comments_empty">Nenhum comentário ainda. Seja o primeiro a comentar.</string>
+    <string name="comments_open_blog">Comentar no blog</string>
+    <string name="comments_refresh">Atualizar comentários</string>
+    <string name="comments_synced_note">Os comentários são sincronizados com o blog VibeTube.</string>
+    <string name="comments_moderation_note">Se o blog exigir moderação, seu comentário aparecerá após aprovação.</string>
+
+    <!-- Curtidas -->
+    <string name="like_local_note">Curtida salva neste dispositivo. A sincronização será ativada na versão oficial.</string>
+
+    <!-- Stand-by -->
+    <string name="standby_title">Em breve</string>
+    <string name="standby_message">Este recurso será ativado na versão oficial do VibeTube, após a migração para a infraestrutura Google Cloud.</string>
+    <string name="standby_understood">Entendi</string>
+    <string name="standby_locked_message">Recurso disponível na versão oficial do VibeTube.</string>
+
+    <!-- Ações -->
+    <string name="action_like">Curtir</string>
+    <string name="action_comment">Comentar</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_follow">Seguir</string>
+    <string name="action_invite">Convidar</string>
+    <string name="action_close">Fechar</string>
+    <string name="action_open_external">Abrir no navegador</string>
+
+    <!-- Convite -->
+    <string name="invite_title">Convide para o VibeTube</string>
+    <string name="invite_subtitle">Compartilhe o app com amigos.</string>
+    <string name="invite_button">Compartilhar link de instalação</string>
+    <string name="invite_message">Instale o VibeTube e acompanhe os vídeos pelo app:\n\nhttps://appdistribution.firebase.dev/i/538c49560ae4a639</string>
+
+    <!-- Sobre -->
+    <string name="about_app">Sobre o app</string>
+</resources>

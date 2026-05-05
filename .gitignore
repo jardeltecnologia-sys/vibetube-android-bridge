@@ -1,0 +1,30 @@
+# Build outputs
+**/build/
+**/.gradle/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Mac/Linux
+.DS_Store
+*.log
+hs_err_pid*
+
+# Android
+local.properties
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Keystores - nao commitar
+*.jks
+*.keystore
+keystore.properties
+
+# Configs locais
+google-services.json

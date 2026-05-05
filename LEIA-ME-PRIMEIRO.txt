@@ -1,0 +1,24 @@
+VIBETUBE V5 ESTAVEL
+
+Esta versao foi criada para voltar ao build verde e eliminar audio misturado.
+
+COMO ENVIAR AO GITHUB:
+
+1. Extraia este ZIP.
+2. Entre na pasta 'vibetube'.
+3. Na barra de endereco da pasta, digite: powershell
+4. Rode:
+
+   powershell -ExecutionPolicy Bypass -File .\ENVIAR_PARA_GITHUB.ps1
+
+5. Abra:
+
+   https://github.com/jardeltecnologia-sys/vibetube-android-bridge/actions
+
+6. Aguarde o build ficar verde.
+7. Baixe o artifact 'vibetube-debug-apk'.
+8. Extraia e instale o app-debug.apk no celular.
+
+Observacao:
+Esta versao desativa o player YouTube embutido no feed para evitar erro 153 e audio fantasma.
+Videos diretos continuam usando player nativo.

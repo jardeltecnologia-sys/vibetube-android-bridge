@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vibe_red">#FF1744</color>
+    <color name="vibe_red_dark">#C4001D</color>
+    <color name="vibe_background">#050505</color>
+    <color name="vibe_surface">#111111</color>
+    <color name="vibe_text">#FFFFFF</color>
+    <color name="vibe_text_secondary">#B0B0B0</color>
+    <color name="vibe_overlay">#80000000</color>
+</resources>
